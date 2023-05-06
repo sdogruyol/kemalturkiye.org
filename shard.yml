@@ -1,0 +1,17 @@
+name: kemal-tr
+version: 0.1.0
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+
+authors:
+  - sdogruyol <dogruyolserdar@gmail.com>
+
+targets:
+  kemal-tr:
+    main: src/kemal-tr.cr
+
+crystal: 1.8.1
+
+license: MIT
